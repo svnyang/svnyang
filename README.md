@@ -207,7 +207,7 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/assets/images/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -269,7 +269,7 @@ mindmap
 <!-- first form 第一个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/people.followers.svg" alt="people.followers" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/assets/images/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
 
