@@ -40,7 +40,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/assets/images/me.png" />
 
 <p>&emsp;&emsp;大家好，我是孙同学。</p>
 <p>&emsp;&emsp;热爱编程、设计、读书、剪纸、徒步。</p>
@@ -55,14 +55,14 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/assets/images/meiyin.png" />
 
 - [美因健康科技（北京）有限公司](https://www.megagenomics.cn/) &emsp; 📌 2016-12-26 —— Now
   
   - 工作岗位：Web前端开发工程师（中级）
   - 工作内容：设计与开发相关
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/svnyang/svnyang/assets/images/zanjia.png" />
 
 - [赞嘉电子科技（北京）有限公司]() &emsp; 📌 2015-12-30 —— 2016-12-26
   
