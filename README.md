@@ -45,8 +45,8 @@
 <p>&emsp;&emsp;大家好，我是孙同学。</p>
 <p>&emsp;&emsp;热爱编程、设计、读书、剪纸、徒步。</p>
 <p>&emsp;&emsp;热爱设计和开发，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;且停且忘且随风，目行且看且从容。</p>
+<p><strong>&emsp;&emsp;And stop and forget and wind, eye line and see and calm..</strong></p>
 
 </td></tr>
 
