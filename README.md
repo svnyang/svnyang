@@ -46,7 +46,7 @@
 <p>&emsp;&emsp;热爱编程、设计、读书、剪纸、徒步。</p>
 <p>&emsp;&emsp;热爱设计和开发，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;且停且忘且随风，目行且看且从容。勿意，勿必，勿固、勿我</p>
-<p><strong>&emsp;&emsp;And stop and forget and wind, eye line and see and calm. Do not want, do not have to, do not solid, do not me</strong></p>
+<p><strong>&emsp;&emsp;And stop and forget and wind, eye line and see and calm. Do not want, do not have to, do not solid, do not me&emsp;&emsp;&emsp;&emsp;</strong></p>
 
 </td></tr>
 
